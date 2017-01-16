@@ -53,7 +53,7 @@ public class Devoxx1Application {
 		}
 
 		//LOG.log(Level.INFO, "you called home");
-		return "Hello World from Stage";
+		return "Hello World from Pipeline";
 	}
 
 	@RequestMapping("/callhome")
