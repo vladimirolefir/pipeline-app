@@ -26,6 +26,6 @@ public class PipelineApplication {
 
 	@RequestMapping("/")
 	public String home() {
-		return "Hello World from Pipeline";
+		return "Hello World from Pipeline (Special)";
 	}
 }
