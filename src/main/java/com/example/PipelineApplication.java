@@ -26,6 +26,6 @@ public class PipelineApplication {
 
 	@RequestMapping("/")
 	public String home() {
-		return "Hello World from Pipeline (Special +) addon";
+		return "Hello World from Pipeline (Special +) new test app";
 	}
 }
